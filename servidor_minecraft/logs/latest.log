@@ -76,3 +76,30 @@
 [27Apr2025 22:25:21.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Teleported Tmarsi219 to Goku177]
 [27Apr2025 22:26:06.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Teleported Tmarsi219 to Goku177]
 [27Apr2025 22:26:54.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Teleported Tmarsi219 to Goku177]
+[27Apr2025 22:27:17.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Teleported Tmarsi219 to Goku177]
+[27Apr2025 22:27:41.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Teleported Tmarsi219 to Goku177]
+[27Apr2025 22:28:06.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Teleported Tmarsi219 to Goku177]
+[27Apr2025 22:32:18.925] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@8196dea[id=<null>,name=Elmegabyt12,properties={},legacy=false] (/172.27.10.41:60229) lost connection: Disconnected
+[27Apr2025 22:32:58.726] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@abadccc[id=<null>,name=Elmegabyt12,properties={},legacy=false] (/172.27.10.41:60242) lost connection: Disconnected
+[27Apr2025 22:33:10.792] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Elmegabyt12[/172.27.10.41:60253] logged in with entity id 21029 at (-307.6619942540394, 70.0, -740.4879847874595)
+[27Apr2025 22:33:10.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elmegabyt12 joined the game
+[27Apr2025 22:34:56.288] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Goku177 lost connection: Disconnected
+[27Apr2025 22:34:56.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Goku177 left the game
+[27Apr2025 22:36:47.463] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/20622, l='ServerLevel[world]', x=883.30, y=61.05, z=-839.70] died, message: 'Farmer drowned'
+[27Apr2025 22:36:50.784] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tmarsi219 lost connection: Disconnected
+[27Apr2025 22:36:50.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 left the game
+[27Apr2025 22:38:35.521] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-185, y=63, z=-661} BlockPos{x=-184, y=62, z=-660}
+[27Apr2025 22:38:35.572] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-186, y=63, z=-661} BlockPos{x=-184, y=62, z=-660}
+[27Apr2025 22:38:43.710] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/20439, l='ServerLevel[world]', x=883.30, y=61.05, z=-839.70] died, message: 'Farmer drowned'
+[27Apr2025 22:39:32.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: angel has made the advancement [What a Deal!]
+[27Apr2025 22:41:08.578] [Server thread/WARN] [tombstone/]: The death event of the player Elmegabyt12 was canceled by another mod
+[27Apr2025 22:41:08.591] [Server thread/INFO] [tombstone/]: The player Elmegabyt12 has successfully been saved
+[27Apr2025 22:41:23.380] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tmarsi219[/172.27.15.159:50581] logged in with entity id 26905 at (-1916.341484725168, 79.0, -650.9364795103993)
+[27Apr2025 22:41:23.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 joined the game
+[27Apr2025 22:41:36.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elmegabyt12 was slain by Moose
+[27Apr2025 22:42:25.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Adventure Mode]
+[27Apr2025 22:42:25.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Spectator Mode]
+[27Apr2025 22:43:57.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tmarsi219: Set own game mode to Survival Mode]
+[27Apr2025 22:45:23.330] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/30955, l='ServerLevel[world]', x=-294.55, y=68.56, z=-412.49] died, message: 'Villager suffocated in a wall'
+[27Apr2025 22:46:34.814] [Server thread/WARN] [tombstone/]: The death event of the player Elmegabyt12 was canceled by another mod
+[27Apr2025 22:46:34.828] [Server thread/INFO] [tombstone/]: The player Elmegabyt12 has successfully been saved
