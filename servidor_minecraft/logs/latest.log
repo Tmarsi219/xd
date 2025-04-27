@@ -1442,3 +1442,19 @@
 [27Apr2025 16:58:47.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pan was slain by Husk
 [27Apr2025 17:00:04.747] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: angel[/172.27.179.29:57025] logged in with entity id 28165 at (571.6875527328177, 64.0, -841.1612735778763)
 [27Apr2025 17:00:04.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: angel joined the game
+[27Apr2025 17:00:49.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pan: Set own game mode to Spectator Mode]
+[27Apr2025 17:01:08.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pan: Set own game mode to Survival Mode]
+[27Apr2025 17:02:16.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Goku177 has made the advancement [A Seedy Place]
+[27Apr2025 17:04:49.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pan has made the advancement [Alex's Caves]
+[27Apr2025 17:06:21.708] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Pan) moved wrongly! 0.27685546875
+[27Apr2025 17:06:21.803] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Pan) moved wrongly! 0.27685546875
+[27Apr2025 17:06:21.804] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Pan) moved wrongly! 0.27685546875
+[27Apr2025 17:07:09.446] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Pan) moved wrongly! 0.358642578125
+[27Apr2025 17:07:09.491] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Pan) moved wrongly! 0.358642578125
+[27Apr2025 17:07:09.556] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Pan) moved wrongly! 0.358642578125
+[27Apr2025 17:09:06.651] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Pan) moved wrongly! 0.3275039678911753
+[27Apr2025 17:09:06.718] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Pan) moved wrongly! 0.3275039678911753
+[27Apr2025 17:09:06.753] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Pan) moved wrongly! 0.3275039678911753
+[27Apr2025 17:09:06.860] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Pan) moved wrongly! 0.3275039678911753
+[27Apr2025 17:11:02.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 has made the advancement [A Seedy Place]
+[27Apr2025 17:28:26.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 has completed the challenge [Free Willy]
