@@ -1391,3 +1391,13 @@
 [27Apr2025 16:10:04.276] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
 [27Apr2025 16:10:04.350] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Tmarsi219[/172.27.15.159:56471] logged in with entity id 569 at (-2040.9663239795188, 64.0, -713.0801192962277)
 [27Apr2025 16:10:04.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tmarsi219 joined the game
+[27Apr2025 16:29:38.594] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Elmegabyt12[/172.27.10.41:58998] logged in with entity id 5812 at (314.617401802624, 85.0, 269.69999998807907)
+[27Apr2025 16:29:38.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elmegabyt12 joined the game
+[27Apr2025 16:31:15.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elmegabyt12 has completed the challenge [Free Willy]
+[27Apr2025 16:33:17.279] [Server thread/WARN] [tombstone/]: The death event of the player Elmegabyt12 was canceled by another mod
+[27Apr2025 16:33:17.298] [Server thread/INFO] [tombstone/]: The player Elmegabyt12 has successfully been saved
+[27Apr2025 16:33:23.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elmegabyt12 was slain by Tusklin
+[27Apr2025 16:34:10.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elmegabyt12 has made the advancement [Sweet Dreams]
+[27Apr2025 16:35:26.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elmegabyt12 has made the advancement [Local Brewery]
+[27Apr2025 16:36:29.686] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/8868, l='ServerLevel[world]', x=-299.62, y=56.00, z=171.70] died, message: 'Villager was slain by Elmegabyt12'
+[27Apr2025 16:36:29.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elmegabyt12 has made the advancement [Neighborhood Brawl]
