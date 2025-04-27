@@ -560,6 +560,7 @@
       "baked_potato": "2025-04-27 02:58:08 +0000",
       "beef": "2025-04-27 01:20:13 +0000",
       "porkchop": "2025-04-27 03:37:00 +0000",
+      "apple": "2025-04-27 16:55:54 +0000",
       "bread": "2025-04-27 03:30:27 +0000",
       "cooked_chicken": "2025-04-27 01:34:39 +0000",
       "cod": "2025-04-27 03:53:22 +0000"
@@ -2197,6 +2198,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-04-27 16:51:29 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/reinforced_birch_fence": {
     "criteria": {
       "has_stick": "2025-04-27 16:10:04 +0000"
@@ -2233,6 +2240,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/sc_manual": {
+    "criteria": {
+      "has_wood": "2025-04-27 16:51:29 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/redstone_module": {
     "criteria": {
       "has_iron": "2025-04-27 16:31:55 +0000"
@@ -2248,6 +2261,12 @@
   "securitycraft:recipes/misc/reinforced_crimson_fence": {
     "criteria": {
       "has_stick": "2025-04-27 16:10:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-04-27 16:51:29 +0000"
     },
     "done": true
   },

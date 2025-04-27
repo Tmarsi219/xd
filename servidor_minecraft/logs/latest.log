@@ -1425,3 +1425,20 @@
 [27Apr2025 16:49:22.037] [Server thread/WARN] [tombstone/]: The death event of the player Elmegabyt12 was canceled by another mod
 [27Apr2025 16:49:22.040] [Server thread/INFO] [tombstone/]: The player Elmegabyt12 has successfully been saved
 [27Apr2025 16:49:37.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elmegabyt12 burned to death
+[27Apr2025 16:50:38.791] [Server thread/WARN] [tombstone/]: The death event of the player Pan was canceled by another mod
+[27Apr2025 16:50:38.816] [Server thread/INFO] [tombstone/]: The player Pan has successfully been saved
+[27Apr2025 16:50:44.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pan was slain by Skeleton
+[27Apr2025 16:53:22.457] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [securitycraft:securitycraft] rejected their client side version number
+[27Apr2025 16:53:22.457] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[27Apr2025 16:53:22.487] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@268f72a9[id=<null>,name=Goku177,properties={},legacy=false] (/172.27.242.200:54932) lost connection: Connection closed - mismatched mod channel list
+[27Apr2025 16:55:38.184] [Server thread/WARN] [tombstone/]: The death event of the player Pan was canceled by another mod
+[27Apr2025 16:55:38.188] [Server thread/INFO] [tombstone/]: The player Pan has successfully been saved
+[27Apr2025 16:55:44.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pan was slain by Skeleton
+[27Apr2025 16:55:47.957] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Goku177[/172.27.242.200:54998] logged in with entity id 23293 at (-2044.2254115393885, 64.0, -715.9490435733208)
+[27Apr2025 16:55:47.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Goku177 joined the game
+[27Apr2025 16:57:34.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pan has completed the challenge [Master Siphoner]
+[27Apr2025 16:58:41.185] [Server thread/WARN] [tombstone/]: The death event of the player Pan was canceled by another mod
+[27Apr2025 16:58:41.204] [Server thread/INFO] [tombstone/]: The player Pan has successfully been saved
+[27Apr2025 16:58:47.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pan was slain by Husk
+[27Apr2025 17:00:04.747] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: angel[/172.27.179.29:57025] logged in with entity id 28165 at (571.6875527328177, 64.0, -841.1612735778763)
+[27Apr2025 17:00:04.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: angel joined the game
