@@ -2753,5 +2753,11 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/silver_pickaxe": {
+    "criteria": {
+      "has_the_recipe": "2025-04-27 22:18:58 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
