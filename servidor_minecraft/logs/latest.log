@@ -1401,3 +1401,27 @@
 [27Apr2025 16:35:26.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elmegabyt12 has made the advancement [Local Brewery]
 [27Apr2025 16:36:29.686] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/8868, l='ServerLevel[world]', x=-299.62, y=56.00, z=171.70] died, message: 'Villager was slain by Elmegabyt12'
 [27Apr2025 16:36:29.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elmegabyt12 has made the advancement [Neighborhood Brawl]
+[27Apr2025 16:41:49.833] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4e034e51[id=<null>,name=Pan,properties={},legacy=false] (/172.27.221.163:58691) lost connection: Disconnected
+[27Apr2025 16:42:11.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elmegabyt12 has made the advancement [Book of Monsters]
+[27Apr2025 16:42:29.796] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pan[/172.27.221.163:58695] logged in with entity id 13087 at (625.8911314838022, 128.0625, -1056.8947700892554)
+[27Apr2025 16:42:29.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pan joined the game
+[27Apr2025 16:43:00.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elmegabyt12 has made the advancement [Would you Like to Know More?]
+[27Apr2025 16:44:46.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Elmegabyt12> wwww
+[27Apr2025 16:44:51.536] [Server thread/WARN] [tombstone/]: The death event of the player Pan was canceled by another mod
+[27Apr2025 16:44:51.548] [Server thread/INFO] [tombstone/]: The player Pan has successfully been saved
+[27Apr2025 16:44:57.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pan was slain by Husk
+[27Apr2025 16:45:50.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pan: Set own game mode to Creative Mode]
+[27Apr2025 16:45:55.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pan: Set own game mode to Adventure Mode]
+[27Apr2025 16:46:03.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pan: Set own game mode to Survival Mode]
+[27Apr2025 16:46:05.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pan: Set own game mode to Adventure Mode]
+[27Apr2025 16:46:06.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pan: Set own game mode to Creative Mode]
+[27Apr2025 16:46:15.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pan: Set own game mode to Adventure Mode]
+[27Apr2025 16:46:17.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pan: Set own game mode to Survival Mode]
+[27Apr2025 16:46:23.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pan: Set own game mode to Adventure Mode]
+[27Apr2025 16:46:31.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pan: Set own game mode to Creative Mode]
+[27Apr2025 16:46:32.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pan: Set own game mode to Survival Mode]
+[27Apr2025 16:46:36.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pan: Set own game mode to Spectator Mode]
+[27Apr2025 16:47:50.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pan: Set own game mode to Survival Mode]
+[27Apr2025 16:49:22.037] [Server thread/WARN] [tombstone/]: The death event of the player Elmegabyt12 was canceled by another mod
+[27Apr2025 16:49:22.040] [Server thread/INFO] [tombstone/]: The player Elmegabyt12 has successfully been saved
+[27Apr2025 16:49:37.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elmegabyt12 burned to death
